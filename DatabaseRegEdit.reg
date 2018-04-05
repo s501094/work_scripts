@@ -1,0 +1,11 @@
+Windows Registry Editor Version 5.00
+
+; Database Registry Addition
+; Created by Ty Ellis
+; Date: 4/5/2018
+; Notes: created per request and placed into landesk.
+;
+
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Csc\Parameters]
+"FormatDatabase"=dword:00000001
